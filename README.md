@@ -36,6 +36,8 @@ Next state of D flip-flop is always equal to data input, D for every positive tr
 4.Create nodes for inputs and outputs to generate the timing diagram.
 
 5.For different input combinations generate the timing diagram.
+NAME : K Rahul royal
+REG NO : 212224240126
 **PROGRAM**
 ```
 module ex08(D,clk,Q,Qbar);
